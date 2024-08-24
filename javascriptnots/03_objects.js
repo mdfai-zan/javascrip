@@ -10,3 +10,5 @@ const user = {
 }
 
 console.log(user["userid"])
+console.log(user[mysyb])
+console.log(user)
